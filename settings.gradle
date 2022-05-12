@@ -1,0 +1,4 @@
+
+rootProject.name = "UploadApk"
+include ':app'
+include ':mylibrary'
